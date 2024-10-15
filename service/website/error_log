@@ -1,0 +1,100 @@
+[25-Sep-2024 10:07:47] PHP Warning:  include_once(../../../db.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/advolcom/public_html/member/service/email/email_register_process.php on line 3
+[25-Sep-2024 10:07:47] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '../../../db.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/advolcom/public_html/member/service/email/email_register_process.php on line 3
+[25-Sep-2024 10:07:47] PHP Notice:  Undefined variable: conn in /home/advolcom/public_html/member/service/email/email_register_process.php on line 6
+[25-Sep-2024 10:07:47] PHP Fatal error:  Call to a member function query() on a non-object in /home/advolcom/public_html/member/service/email/email_register_process.php on line 6
+[25-Sep-2024 10:08:11] PHP Warning:  include_once(../db.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/advolcom/public_html/member/service/email/email_register_process.php on line 3
+[25-Sep-2024 10:08:11] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/advolcom/public_html/member/service/email/email_register_process.php on line 3
+[25-Sep-2024 10:08:11] PHP Notice:  Undefined variable: conn in /home/advolcom/public_html/member/service/email/email_register_process.php on line 6
+[25-Sep-2024 10:08:11] PHP Fatal error:  Call to a member function query() on a non-object in /home/advolcom/public_html/member/service/email/email_register_process.php on line 6
+[25-Sep-2024 11:01:48] PHP Notice:  Undefined index:  prod_id in /home/advolcom/public_html/member/service/email/email_register_process.php on line 11
+[25-Sep-2024 11:02:59] PHP Notice:  Undefined index:  prod_id in /home/advolcom/public_html/member/service/email/email_register_process.php on line 11
+[25-Sep-2024 11:03:43] PHP Notice:  Undefined index:  prod_id in /home/advolcom/public_html/member/service/email/email_register_process.php on line 11
+[25-Sep-2024 11:07:33] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/email_register_process.php on line 5
+[25-Sep-2024 11:17:10] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/email_register_process.php on line 5
+[25-Sep-2024 11:22:51] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/email_register_process.php on line 5
+[25-Sep-2024 11:36:58] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/email_register_process.php on line 5
+[25-Sep-2024 11:39:03] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/email_register_process.php on line 5
+[25-Sep-2024 11:39:03] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 4
+[25-Sep-2024 11:39:03] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 35
+[25-Sep-2024 11:43:53] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 4
+[25-Sep-2024 11:43:53] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 35
+[25-Sep-2024 11:44:44] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/email_register_process.php on line 5
+[25-Sep-2024 11:44:44] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 4
+[25-Sep-2024 11:44:44] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 35
+[25-Sep-2024 11:45:30] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 4
+[25-Sep-2024 11:45:30] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 35
+[25-Sep-2024 11:45:54] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/email_register_process.php on line 5
+[25-Sep-2024 11:45:54] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 4
+[25-Sep-2024 11:45:54] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 35
+[25-Sep-2024 12:03:08] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 4
+[25-Sep-2024 12:03:08] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 35
+[25-Sep-2024 12:03:31] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/email_register_process.php on line 5
+[25-Sep-2024 12:03:31] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 4
+[25-Sep-2024 12:03:31] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 35
+[25-Sep-2024 12:08:41] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/email_register_process.php on line 5
+[25-Sep-2024 12:08:42] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 4
+[25-Sep-2024 12:08:42] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 39
+[25-Sep-2024 12:12:11] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/email_register_process.php on line 5
+[25-Sep-2024 12:12:11] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 4
+[25-Sep-2024 12:12:11] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/register-email.php on line 39
+[25-Sep-2024 12:14:57] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/email/email_register_process.php on line 5
+[25-Sep-2024 12:59:52] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 04:32:32] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 05:11:03] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 05:11:03] PHP Notice:  Undefined index:  nameErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 05:11:03] PHP Notice:  Undefined index:  mobileErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 05:11:45] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 05:11:45] PHP Notice:  Undefined index:  nameErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 05:11:45] PHP Notice:  Undefined index:  mobileErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 05:12:32] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 05:12:32] PHP Notice:  Undefined index:  nameErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 05:12:32] PHP Notice:  Undefined index:  mobileErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 05:19:31] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 05:19:31] PHP Notice:  Undefined index:  nameErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 05:19:31] PHP Notice:  Undefined index:  mobileErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 05:20:31] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 05:20:31] PHP Notice:  Undefined index:  nameErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 05:20:31] PHP Notice:  Undefined index:  mobileErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 05:35:11] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 05:35:11] PHP Notice:  Undefined index:  nameErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 05:35:11] PHP Notice:  Undefined index:  mobileErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 05:45:56] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 05:45:56] PHP Notice:  Undefined index:  nameErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 05:45:56] PHP Notice:  Undefined index:  mobileErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 05:50:16] PHP Fatal error:  Call to undefined function old() in /home/advolcom/public_html/member/service/website/register-website.php on line 48
+[26-Sep-2024 09:01:53] PHP Fatal error:  Call to undefined function old() in /home/advolcom/public_html/member/service/website/register-website.php on line 48
+[26-Sep-2024 09:04:53] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 09:04:53] PHP Notice:  Undefined index:  nameErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 09:04:53] PHP Notice:  Undefined index:  mobileErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 09:32:38] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 09:32:38] PHP Notice:  Undefined index:  nameErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 09:32:38] PHP Notice:  Undefined index:  mobileErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 09:35:20] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 09:35:20] PHP Notice:  Undefined index:  nameErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 09:35:20] PHP Notice:  Undefined index:  mobileErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 09:40:05] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 09:40:05] PHP Notice:  Undefined index:  nameErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 09:40:05] PHP Notice:  Undefined index:  mobileErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 09:40:34] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 09:40:34] PHP Notice:  Undefined index:  nameErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 09:40:34] PHP Notice:  Undefined index:  mobileErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 09:42:16] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 09:42:16] PHP Notice:  Undefined index:  nameErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 09:42:16] PHP Notice:  Undefined index:  mobileErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 09:43:06] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 09:43:06] PHP Notice:  Undefined index:  nameErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 09:43:06] PHP Notice:  Undefined index:  mobileErr in /home/advolcom/public_html/member/service/website/register_website_process.php on line 25
+[26-Sep-2024 09:45:58] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 09:47:58] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 09:48:59] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 09:50:44] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 09:51:40] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 09:55:29] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register_website_process.php on line 5
+[26-Sep-2024 10:02:56] PHP Parse error:  syntax error, unexpected T_STRING in /home/advolcom/public_html/member/service/website/register_website_process.php on line 46
+[26-Sep-2024 10:05:19] PHP Parse error:  syntax error, unexpected T_STRING in /home/advolcom/public_html/member/service/website/register_website_process.php on line 46
+[26-Sep-2024 10:08:49] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/advolcom/public_html/member/service/website/register_website_process.php on line 53
+[26-Sep-2024 10:16:21] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register-website.php on line 4
+[26-Sep-2024 10:16:21] PHP Notice:  Undefined index:  product_id in /home/advolcom/public_html/member/service/website/register-website.php on line 49
+[26-Sep-2024 10:22:00] PHP Notice:  Undefined index:  prod_id in /home/advolcom/public_html/member/service/website/register-website.php on line 4
+[26-Sep-2024 10:22:28] PHP Notice:  Undefined index:  prod_id in /home/advolcom/public_html/member/service/website/register-website.php on line 4
+[26-Sep-2024 10:37:14] PHP Fatal error:  Call to undefined function old() in /home/advolcom/public_html/member/service/website/register-website.php on line 59
